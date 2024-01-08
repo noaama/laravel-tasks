@@ -63,4 +63,4 @@ jobs:
           app-name: 'app-dpss'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9C5111B53E044BF824A6F489E17DA27 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0079A1D29C1D448090F01FF80CFA4855 }}
